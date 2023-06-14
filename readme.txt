@@ -6,5 +6,6 @@ The toolkit will consist of:
  	  TUIO data tracking and Unity.
 	- The TUIO simulator as also provided by TUIO.org.
 	- An updated version of the Uniducial library
+	- A PDF of 4x4 fiducial markers
 	- An example project to show the potential of tangible tabletop-based experiences
 
